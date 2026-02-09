@@ -27,7 +27,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles: (Consider including QA Lead, Business Analyst, UX/UI Designer, DevOps Engineer based on project needs)
+- Proposed team / roles:
+  - Consider including QA Lead, Business Analyst, UX/UI Designer, DevOps Engineer based on project needs
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
