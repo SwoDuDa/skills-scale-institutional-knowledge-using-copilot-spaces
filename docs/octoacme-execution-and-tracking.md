@@ -31,7 +31,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
 - Level 2: PM escalates to Product Lead and dependent teams
-- Level 3: Sponsor-level escalation for business-impacting issues
+- Level 3: Sponsor-level (Executive Sponsor) escalation for business-impacting issues or organizational blockers
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo

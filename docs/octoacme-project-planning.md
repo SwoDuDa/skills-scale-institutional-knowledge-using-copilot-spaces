@@ -10,6 +10,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Activities
 1. Kickoff meeting with stakeholders and delivery team
+   - Ensure relevant specialist roles (QA Lead, Business Analyst, UX/UI Designer, DevOps Engineer) are invited based on project requirements
 2. Create prioritized backlog with acceptance criteria
 3. Estimate scope (T-shirt sizing or story points)
 4. Define Definition of Done (DoD)
